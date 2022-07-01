@@ -3,7 +3,7 @@
 Holidays are hard. We make them easy. This app can use as a travel plan.
 
 ##Screenshots
-(Hierarchy.png)
+<img src="Hierarchy.png"/>
 
 ###Description
 
