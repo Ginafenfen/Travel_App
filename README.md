@@ -34,7 +34,7 @@ The plan is to build for a app to fetch data for hotel, flight , attraction, but
 ### Problem-Solving Strategy :pencil2:
 
 I believe logic thinking is important and understand the project structure, initially I was wrongly placed the state in one of the child component and end up the information did not manage to pass over to the another componenent. so I restructure :clipboard: and re-draw the hierarchy in order for you to set the correct state in the correct place. example: planning the hierarchy who will the parents component and who will be the child.
-
+<img src="./input.png">
 try in error ⁉️ :warning: is the strategy I learn from this project.
 
 I believe is the way of achieving an aim or solving a problem by trying a number of different methods and learning from the mistakes that I make.
