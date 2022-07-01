@@ -1,0 +1,57 @@
+project 2:react to fetch data React API Tutorial - how to work with Rapid API
+1. holiday -->https://holidayapi.com  -->KPI key: H9114a152-9e7c-47ac-b1cd-57cda8c28e3a
+2. tripadvisor --> https://www.tripadvisor.com/developers
+3. ticketmaster--> https://developer-acct.ticketmaster.com/user/register
+4.https://www.programmableweb.com/welcome-follower?destination=node/218658&pwflag=follow_api
+
+
+Trail API.
+Webcams.travel API.
+Great Circle Mapper API.
+Skyscanner API.
+Hipmunk API.
+Hotels in Singapore API.
+Flight Data API.
+World IATA Airports API.
+
+
+Use React framework to build your application with at least
+3 components (ok)
+4 props
+1 lifting state
+2 states (ok)
+2 setState (ok)
+2 routes (ok)
+
+*Craft a README.md file 
+
+*5 minute presentation (suggested flow)
+What is the application about?
+What are the user stories for your application?
+What API did you choose to use?
+Walk through a piece of code
+What was the most difficult part of the project?
+What was your favourite part of your project?
+What would you like to add next?
+
+somethings can use in presentation:
+
+ ticketmaster--> 
+1.Holidays are hard. We make them easy.
+2.make an app to find ticket,price,and location
+3.user can find the reasonable price to save time to go around 
+4.my app will compare the price betwwen each location
+
+another idea: focus on holiday nwhich match with the date
+1. plan for trip and app will promt the date which country got the special PH or GWS
+2. information about the place
+3. historycal 
+4. location & transport
+5. holiday
+6.
+
+
+
+US site:https://travelbriefing.org/countries.json
+
+data per country:https://travelbriefing.org/Netherlands?format=json
