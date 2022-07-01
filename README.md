@@ -4,7 +4,7 @@ Holidays are hard. We make them easy. This app can use as a travel plan.
 
 ### Description :page_facing_up:
 
-This App is an app for travel plan when user plan fpor their trips and with soem of the functions
+This App is an app for travel plan when user plan for their trips and with soem of the functions
 
 <img src="./AppPage.png"/>
 - Able to check avaialble travel packages for 2022
@@ -31,9 +31,9 @@ This App is an app for travel plan when user plan fpor their trips and with soem
 A basic story of your planning and developing this project.
 The plan is to build for a app to fetch data for hotel, flight , attraction, but couldn't get the free API.
 
-### Problem-Solving Strategy
+### Problem-Solving Strategy :pencil2:
 
-I believe logic thinking is important and understand the project structure, initially i was wrong place the state in one of the child component and end up the information did not manage to pass over to the another componenent. Must plan and draw out in order for you to set the correct state in the correct place. example: planning the hierarchy who will the parents component and who will be the child.
+I believe logic thinking is important and understand the project structure, initially I was wrongly placed the state in one of the child component and end up the information did not manage to pass over to the another componenent. so I restructure :clipboard: and re-draw the hierarchy in order for you to set the correct state in the correct place. example: planning the hierarchy who will the parents component and who will be the child.
 
 try in error is the strategy I learn from .
 
